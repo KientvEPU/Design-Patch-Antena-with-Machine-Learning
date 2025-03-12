@@ -7,6 +7,9 @@ We provide 6 different source code files to perform simulations for 6 algorithms
 
 Each source file presents the complete steps of the machine learning process and evaluates the results for patch antenna design.
 
-# How to use this artifact:
+# How to use this artifact
 
-## software requirements
+## software requirements:
+### \. Python 3
+### \. Visual Studio Code
+
