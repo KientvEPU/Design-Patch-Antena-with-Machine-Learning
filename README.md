@@ -12,4 +12,4 @@ Each source file presents the complete steps of the machine learning process and
 ## software requirements:
 ### \. Python 3
 ### \. Visual Studio Code
-
+### \. Fully install the libraries used in the source code
